@@ -186,3 +186,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Add feature — iteration 50 (2025)
 - Add tests — iteration 18 (2026)
 - Polish code — iteration 20 (2026)
+- Fix edge case — iteration 22 (2026)
