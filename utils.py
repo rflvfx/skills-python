@@ -153,3 +153,4 @@
 - Refactor module — iteration 53 (2025)
 - Add tests — iteration 56 (2025)
 - Add example — iteration 1 (2026)
+- Improve error handling — iteration 10 (2026)
