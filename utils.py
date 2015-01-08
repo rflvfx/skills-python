@@ -10,3 +10,4 @@
 - Polish code — iteration 47 (2015)
 - Minor cleanup — iteration 48 (2015)
 - Update dependencies — iteration 51 (2015)
+- Improve naming — iteration 54 (2015)
