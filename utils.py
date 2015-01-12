@@ -3,3 +3,4 @@
 - Add helper — iteration 8 (2015)
 - Update config — iteration 9 (2015)
 - Fix typo — iteration 11 (2015)
+- Fix lint warnings — iteration 15 (2015)
