@@ -7,3 +7,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 
 # batch_rename("./files", "doc")
 - Add helper — iteration 3 (2015)
+- Update docs — iteration 6 (2015)
