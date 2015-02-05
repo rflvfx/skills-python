@@ -16,3 +16,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Tweak implementation — iteration 26 (2015)
 - Update dependencies — iteration 27 (2015)
 - Polish code — iteration 28 (2015)
+- Add validation — iteration 30 (2015)
