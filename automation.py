@@ -17,3 +17,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Update dependencies — iteration 27 (2015)
 - Polish code — iteration 28 (2015)
 - Add validation — iteration 30 (2015)
+- Add feature — iteration 32 (2015)
