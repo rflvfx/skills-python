@@ -1,1 +1,2 @@
 - Optimize performance — iteration 2 (2015)
+- Fix typo — iteration 5 (2015)
