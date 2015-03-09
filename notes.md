@@ -1,1 +1,2 @@
 - Minor cleanup — iteration 1 (2015)
+- Polish code — iteration 14 (2015)
