@@ -1,3 +1,4 @@
 - Optimize performance — iteration 2 (2015)
 - Fix typo — iteration 5 (2015)
 - Add helper — iteration 8 (2015)
+- Update config — iteration 9 (2015)
