@@ -8,3 +8,4 @@
 - Fix edge case — iteration 41 (2015)
 - Tweak implementation — iteration 42 (2015)
 - Polish code — iteration 47 (2015)
+- Minor cleanup — iteration 48 (2015)
