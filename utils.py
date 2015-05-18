@@ -12,3 +12,4 @@
 - Update dependencies — iteration 51 (2015)
 - Improve naming — iteration 54 (2015)
 - Improve error handling — iteration 55 (2015)
+- Improve error handling — iteration 59 (2015)
