@@ -6,3 +6,4 @@
 - Polish code — iteration 31 (2015)
 - Tweak implementation — iteration 34 (2015)
 - Improve naming — iteration 37 (2015)
+- Add helper — iteration 56 (2015)
