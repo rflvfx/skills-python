@@ -20,3 +20,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Add feature — iteration 32 (2015)
 - Add validation — iteration 38 (2015)
 - Polish code — iteration 39 (2015)
+- Fix typo — iteration 43 (2015)
