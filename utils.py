@@ -5,3 +5,4 @@
 - Fix typo — iteration 11 (2015)
 - Fix lint warnings — iteration 15 (2015)
 - Improve naming — iteration 17 (2015)
+- Fix edge case — iteration 41 (2015)
