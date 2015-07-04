@@ -2,3 +2,4 @@
 - Polish code — iteration 14 (2015)
 - Tweak implementation — iteration 19 (2015)
 - Improve error handling — iteration 20 (2015)
+- Improve error handling — iteration 29 (2015)
