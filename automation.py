@@ -6,3 +6,4 @@ def batch_rename(folder: str, prefix: str) -> None:
         f.rename(f.with_name(f"{prefix}_{i:03d}.txt"))
 
 # batch_rename("./files", "doc")
+- Add helper — iteration 3 (2015)
