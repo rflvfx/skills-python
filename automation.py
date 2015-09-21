@@ -11,3 +11,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Improve naming — iteration 7 (2015)
 - Improve naming — iteration 10 (2015)
 - Update config — iteration 16 (2015)
+- Add example — iteration 21 (2015)
