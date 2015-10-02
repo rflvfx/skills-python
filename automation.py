@@ -21,3 +21,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Add validation — iteration 38 (2015)
 - Polish code — iteration 39 (2015)
 - Fix typo — iteration 43 (2015)
+- Update docs — iteration 44 (2015)
