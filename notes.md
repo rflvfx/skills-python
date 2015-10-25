@@ -5,3 +5,4 @@
 - Improve error handling — iteration 29 (2015)
 - Polish code — iteration 31 (2015)
 - Tweak implementation — iteration 34 (2015)
+- Improve naming — iteration 37 (2015)
