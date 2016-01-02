@@ -31,3 +31,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Update dependencies — iteration 3 (2016)
 - Optimize performance — iteration 7 (2016)
 - Add tests — iteration 17 (2016)
+- Update dependencies — iteration 18 (2016)
