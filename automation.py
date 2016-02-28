@@ -44,3 +44,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Add helper — iteration 42 (2016)
 - Improve naming — iteration 47 (2016)
 - Minor cleanup — iteration 48 (2016)
+- Document usage — iteration 53 (2016)
