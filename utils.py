@@ -13,3 +13,4 @@
 - Improve naming — iteration 54 (2015)
 - Improve error handling — iteration 55 (2015)
 - Improve error handling — iteration 59 (2015)
+- Fix lint warnings — iteration 6 (2016)
