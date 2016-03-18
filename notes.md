@@ -18,3 +18,4 @@
 - Document usage — iteration 31 (2016)
 - Add example — iteration 35 (2016)
 - Add feature — iteration 37 (2016)
+- Refactor module — iteration 39 (2016)
