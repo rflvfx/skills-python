@@ -24,3 +24,4 @@
 - Fix lint warnings — iteration 44 (2016)
 - Polish code — iteration 45 (2016)
 - Minor cleanup — iteration 49 (2016)
+- Improve naming — iteration 57 (2016)
