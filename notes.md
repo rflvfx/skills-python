@@ -25,3 +25,4 @@
 - Polish code — iteration 45 (2016)
 - Minor cleanup — iteration 49 (2016)
 - Improve naming — iteration 57 (2016)
+- Update docs — iteration 59 (2016)
