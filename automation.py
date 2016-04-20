@@ -35,3 +35,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Update docs — iteration 22 (2016)
 - Improve error handling — iteration 24 (2016)
 - Update config — iteration 27 (2016)
+- Optimize performance — iteration 29 (2016)
