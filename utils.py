@@ -18,3 +18,4 @@
 - Polish code — iteration 19 (2016)
 - Update config — iteration 20 (2016)
 - Add helper — iteration 26 (2016)
+- Refactor module — iteration 32 (2016)
