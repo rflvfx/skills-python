@@ -20,3 +20,4 @@
 - Add helper — iteration 26 (2016)
 - Refactor module — iteration 32 (2016)
 - Add helper — iteration 50 (2016)
+- Improve error handling — iteration 56 (2016)
