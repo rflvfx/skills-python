@@ -8,3 +8,4 @@
 - Improve naming — iteration 37 (2015)
 - Add helper — iteration 56 (2015)
 - Minor cleanup — iteration 58 (2015)
+- Refactor module — iteration 5 (2016)
