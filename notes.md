@@ -19,3 +19,4 @@
 - Add example — iteration 35 (2016)
 - Add feature — iteration 37 (2016)
 - Refactor module — iteration 39 (2016)
+- Add helper — iteration 40 (2016)
