@@ -28,3 +28,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Add helper — iteration 57 (2015)
 - Add feature — iteration 60 (2015)
 - Document usage — iteration 2 (2016)
+- Update dependencies — iteration 3 (2016)
