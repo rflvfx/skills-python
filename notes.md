@@ -21,3 +21,4 @@
 - Refactor module — iteration 39 (2016)
 - Add helper — iteration 40 (2016)
 - Update dependencies — iteration 43 (2016)
+- Fix lint warnings — iteration 44 (2016)
