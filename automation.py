@@ -27,3 +27,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Update config — iteration 53 (2015)
 - Add helper — iteration 57 (2015)
 - Add feature — iteration 60 (2015)
+- Document usage — iteration 2 (2016)
