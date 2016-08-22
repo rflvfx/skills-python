@@ -13,3 +13,4 @@
 - Minor cleanup — iteration 12 (2016)
 - Add validation — iteration 15 (2016)
 - Extend coverage — iteration 16 (2016)
+- Update dependencies — iteration 21 (2016)
