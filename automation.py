@@ -39,3 +39,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Add example — iteration 30 (2016)
 - Fix typo — iteration 34 (2016)
 - Update docs — iteration 36 (2016)
+- Improve naming — iteration 38 (2016)
