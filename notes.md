@@ -10,3 +10,4 @@
 - Minor cleanup — iteration 58 (2015)
 - Refactor module — iteration 5 (2016)
 - Add validation — iteration 10 (2016)
+- Minor cleanup — iteration 12 (2016)
