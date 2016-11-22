@@ -46,3 +46,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Minor cleanup — iteration 48 (2016)
 - Document usage — iteration 53 (2016)
 - Refactor module — iteration 54 (2016)
+- Add tests — iteration 55 (2016)
