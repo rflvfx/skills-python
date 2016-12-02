@@ -15,3 +15,4 @@
 - Improve error handling — iteration 59 (2015)
 - Fix lint warnings — iteration 6 (2016)
 - Update dependencies — iteration 13 (2016)
+- Polish code — iteration 19 (2016)
