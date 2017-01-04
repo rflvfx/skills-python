@@ -27,3 +27,4 @@
 - Improve naming — iteration 57 (2016)
 - Update docs — iteration 59 (2016)
 - Improve error handling — iteration 60 (2016)
+- Add tests — iteration 1 (2017)
