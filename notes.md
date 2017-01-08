@@ -28,3 +28,4 @@
 - Update docs — iteration 59 (2016)
 - Improve error handling — iteration 60 (2016)
 - Add tests — iteration 1 (2017)
+- Fix lint warnings — iteration 8 (2017)
