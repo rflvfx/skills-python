@@ -28,3 +28,4 @@
 - Polish code — iteration 18 (2017)
 - Optimize performance — iteration 23 (2017)
 - Fix typo — iteration 25 (2017)
+- Update docs — iteration 34 (2017)
