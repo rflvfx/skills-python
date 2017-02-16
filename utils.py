@@ -29,3 +29,4 @@
 - Optimize performance — iteration 23 (2017)
 - Fix typo — iteration 25 (2017)
 - Update docs — iteration 34 (2017)
+- Update docs — iteration 48 (2017)
