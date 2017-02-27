@@ -24,3 +24,4 @@
 - Fix typo — iteration 14 (2017)
 - Improve error handling — iteration 15 (2017)
 - Add tests — iteration 16 (2017)
+- Fix edge case — iteration 17 (2017)
