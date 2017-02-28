@@ -34,3 +34,4 @@
 - Update docs — iteration 12 (2017)
 - Polish code — iteration 22 (2017)
 - Add feature — iteration 26 (2017)
+- Minor cleanup — iteration 27 (2017)
