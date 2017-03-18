@@ -26,3 +26,4 @@
 - Add tests — iteration 16 (2017)
 - Fix edge case — iteration 17 (2017)
 - Polish code — iteration 18 (2017)
+- Optimize performance — iteration 23 (2017)
