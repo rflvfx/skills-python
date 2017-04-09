@@ -37,3 +37,4 @@
 - Minor cleanup — iteration 27 (2017)
 - Add validation — iteration 28 (2017)
 - Add validation — iteration 30 (2017)
+- Fix typo — iteration 36 (2017)
