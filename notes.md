@@ -41,3 +41,4 @@
 - Update dependencies — iteration 38 (2017)
 - Add example — iteration 44 (2017)
 - Add feature — iteration 45 (2017)
+- Document usage — iteration 46 (2017)
