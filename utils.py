@@ -32,3 +32,4 @@
 - Update docs — iteration 48 (2017)
 - Add feature — iteration 49 (2017)
 - Update docs — iteration 51 (2017)
+- Improve naming — iteration 52 (2017)
