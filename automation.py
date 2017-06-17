@@ -52,3 +52,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Add feature — iteration 10 (2017)
 - Add validation — iteration 13 (2017)
 - Add feature — iteration 24 (2017)
+- Optimize performance — iteration 29 (2017)
