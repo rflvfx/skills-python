@@ -54,3 +54,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Add feature — iteration 24 (2017)
 - Optimize performance — iteration 29 (2017)
 - Refactor module — iteration 31 (2017)
+- Document usage — iteration 32 (2017)
