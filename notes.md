@@ -39,3 +39,4 @@
 - Add validation — iteration 30 (2017)
 - Fix typo — iteration 36 (2017)
 - Update dependencies — iteration 38 (2017)
+- Add example — iteration 44 (2017)
