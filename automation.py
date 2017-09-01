@@ -58,3 +58,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Fix lint warnings — iteration 33 (2017)
 - Update config — iteration 35 (2017)
 - Improve naming — iteration 39 (2017)
+- Document usage — iteration 53 (2017)
