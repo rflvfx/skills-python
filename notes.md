@@ -43,3 +43,4 @@
 - Add feature — iteration 45 (2017)
 - Document usage — iteration 46 (2017)
 - Polish code — iteration 47 (2017)
+- Optimize performance — iteration 58 (2017)
