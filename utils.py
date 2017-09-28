@@ -25,3 +25,4 @@
 - Improve error handling — iteration 15 (2017)
 - Add tests — iteration 16 (2017)
 - Fix edge case — iteration 17 (2017)
+- Polish code — iteration 18 (2017)
