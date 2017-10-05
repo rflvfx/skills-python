@@ -48,3 +48,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Refactor module — iteration 54 (2016)
 - Add tests — iteration 55 (2016)
 - Optimize performance — iteration 5 (2017)
+- Improve error handling — iteration 6 (2017)
