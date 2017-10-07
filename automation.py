@@ -56,3 +56,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Refactor module — iteration 31 (2017)
 - Document usage — iteration 32 (2017)
 - Fix lint warnings — iteration 33 (2017)
+- Update config — iteration 35 (2017)
