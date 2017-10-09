@@ -31,3 +31,4 @@
 - Fix lint warnings — iteration 8 (2017)
 - Add example — iteration 9 (2017)
 - Update config — iteration 11 (2017)
+- Update docs — iteration 12 (2017)
