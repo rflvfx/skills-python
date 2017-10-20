@@ -22,3 +22,4 @@
 - Add helper — iteration 50 (2016)
 - Improve error handling — iteration 56 (2016)
 - Fix typo — iteration 14 (2017)
+- Improve error handling — iteration 15 (2017)
