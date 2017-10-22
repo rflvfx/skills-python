@@ -35,3 +35,4 @@
 - Polish code — iteration 22 (2017)
 - Add feature — iteration 26 (2017)
 - Minor cleanup — iteration 27 (2017)
+- Add validation — iteration 28 (2017)
