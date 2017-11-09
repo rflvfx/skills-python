@@ -40,3 +40,4 @@
 - Fix typo — iteration 36 (2017)
 - Update dependencies — iteration 38 (2017)
 - Add example — iteration 44 (2017)
+- Add feature — iteration 45 (2017)
