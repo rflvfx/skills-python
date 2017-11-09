@@ -33,3 +33,4 @@
 - Update config — iteration 11 (2017)
 - Update docs — iteration 12 (2017)
 - Polish code — iteration 22 (2017)
+- Add feature — iteration 26 (2017)
