@@ -30,3 +30,4 @@
 - Add tests — iteration 1 (2017)
 - Fix lint warnings — iteration 8 (2017)
 - Add example — iteration 9 (2017)
+- Update config — iteration 11 (2017)
