@@ -23,3 +23,4 @@
 - Improve error handling — iteration 56 (2016)
 - Fix typo — iteration 14 (2017)
 - Improve error handling — iteration 15 (2017)
+- Add tests — iteration 16 (2017)
