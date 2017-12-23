@@ -42,3 +42,4 @@
 - Add example — iteration 44 (2017)
 - Add feature — iteration 45 (2017)
 - Document usage — iteration 46 (2017)
+- Polish code — iteration 47 (2017)
