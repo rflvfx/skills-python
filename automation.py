@@ -68,3 +68,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Tweak implementation — iteration 43 (2018)
 - Extend coverage — iteration 49 (2018)
 - Add tests — iteration 53 (2018)
+- Optimize performance — iteration 54 (2018)
