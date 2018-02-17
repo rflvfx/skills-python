@@ -46,3 +46,4 @@
 - Add feature — iteration 39 (2018)
 - Update dependencies — iteration 44 (2018)
 - Update config — iteration 47 (2018)
+- Improve error handling — iteration 52 (2018)
