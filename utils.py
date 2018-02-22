@@ -42,3 +42,4 @@
 - Add helper — iteration 24 (2018)
 - Fix edge case — iteration 30 (2018)
 - Update docs — iteration 32 (2018)
+- Improve naming — iteration 36 (2018)
