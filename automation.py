@@ -65,3 +65,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Add tests — iteration 14 (2018)
 - Add validation — iteration 28 (2018)
 - Refactor module — iteration 38 (2018)
+- Tweak implementation — iteration 43 (2018)
