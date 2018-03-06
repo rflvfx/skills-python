@@ -43,3 +43,4 @@
 - Fix edge case — iteration 30 (2018)
 - Update docs — iteration 32 (2018)
 - Improve naming — iteration 36 (2018)
+- Add feature — iteration 39 (2018)
