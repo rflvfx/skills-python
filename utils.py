@@ -34,3 +34,4 @@
 - Update docs — iteration 51 (2017)
 - Improve naming — iteration 52 (2017)
 - Document usage — iteration 57 (2017)
+- Update config — iteration 7 (2018)
