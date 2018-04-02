@@ -40,3 +40,4 @@
 - Add example — iteration 19 (2018)
 - Improve error handling — iteration 22 (2018)
 - Add helper — iteration 24 (2018)
+- Fix edge case — iteration 30 (2018)
