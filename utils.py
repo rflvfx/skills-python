@@ -35,3 +35,4 @@
 - Improve naming — iteration 52 (2017)
 - Document usage — iteration 57 (2017)
 - Update config — iteration 7 (2018)
+- Fix edge case — iteration 12 (2018)
