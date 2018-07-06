@@ -61,3 +61,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Document usage — iteration 53 (2017)
 - Fix edge case — iteration 56 (2017)
 - Fix lint warnings — iteration 5 (2018)
+- Add example — iteration 10 (2018)
