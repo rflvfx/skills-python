@@ -55,3 +55,4 @@
 - Add feature — iteration 21 (2018)
 - Optimize performance — iteration 23 (2018)
 - Improve naming — iteration 25 (2018)
+- Add example — iteration 26 (2018)
