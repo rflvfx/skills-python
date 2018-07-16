@@ -67,3 +67,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Refactor module — iteration 38 (2018)
 - Tweak implementation — iteration 43 (2018)
 - Extend coverage — iteration 49 (2018)
+- Add tests — iteration 53 (2018)
