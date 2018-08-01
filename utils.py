@@ -45,3 +45,4 @@
 - Improve naming — iteration 36 (2018)
 - Add feature — iteration 39 (2018)
 - Update dependencies — iteration 44 (2018)
+- Update config — iteration 47 (2018)
