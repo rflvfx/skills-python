@@ -57,3 +57,4 @@
 - Improve naming — iteration 25 (2018)
 - Add example — iteration 26 (2018)
 - Improve naming — iteration 27 (2018)
+- Fix edge case — iteration 33 (2018)
