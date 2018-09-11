@@ -49,3 +49,4 @@
 - Fix typo — iteration 3 (2018)
 - Add helper — iteration 9 (2018)
 - Add tests — iteration 11 (2018)
+- Fix typo — iteration 16 (2018)
