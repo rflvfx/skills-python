@@ -62,3 +62,4 @@
 - Update config — iteration 35 (2018)
 - Add helper — iteration 50 (2018)
 - Optimize performance — iteration 51 (2018)
+- Improve error handling — iteration 55 (2018)
