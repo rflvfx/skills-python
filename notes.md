@@ -54,3 +54,4 @@
 - Optimize performance — iteration 20 (2018)
 - Add feature — iteration 21 (2018)
 - Optimize performance — iteration 23 (2018)
+- Improve naming — iteration 25 (2018)
