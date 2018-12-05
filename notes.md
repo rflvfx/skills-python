@@ -51,3 +51,4 @@
 - Add tests — iteration 11 (2018)
 - Fix typo — iteration 16 (2018)
 - Extend coverage — iteration 18 (2018)
+- Optimize performance — iteration 20 (2018)
