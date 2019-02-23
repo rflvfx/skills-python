@@ -49,3 +49,4 @@
 - Improve error handling — iteration 52 (2018)
 - Add tests — iteration 59 (2018)
 - Refactor module — iteration 1 (2019)
+- Update config — iteration 3 (2019)
