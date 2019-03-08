@@ -54,3 +54,4 @@
 - Minor cleanup — iteration 20 (2019)
 - Fix typo — iteration 21 (2019)
 - Polish code — iteration 22 (2019)
+- Tweak implementation — iteration 27 (2019)
