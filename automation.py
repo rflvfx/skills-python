@@ -80,3 +80,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Update config — iteration 25 (2019)
 - Update dependencies — iteration 26 (2019)
 - Update dependencies — iteration 33 (2019)
+- Fix typo — iteration 37 (2019)
