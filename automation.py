@@ -71,3 +71,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Optimize performance — iteration 54 (2018)
 - Add feature — iteration 58 (2018)
 - Add example — iteration 8 (2019)
+- Fix edge case — iteration 9 (2019)
