@@ -83,3 +83,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Fix typo — iteration 37 (2019)
 - Tweak implementation — iteration 39 (2019)
 - Polish code — iteration 42 (2019)
+- Update dependencies — iteration 45 (2019)
