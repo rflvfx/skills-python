@@ -74,3 +74,4 @@
 - Improve naming — iteration 43 (2019)
 - Add feature — iteration 47 (2019)
 - Add validation — iteration 51 (2019)
+- Improve error handling — iteration 52 (2019)
