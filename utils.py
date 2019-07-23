@@ -57,3 +57,4 @@
 - Tweak implementation — iteration 27 (2019)
 - Fix edge case — iteration 35 (2019)
 - Update config — iteration 38 (2019)
+- Improve error handling — iteration 41 (2019)
