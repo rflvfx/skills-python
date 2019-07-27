@@ -70,3 +70,4 @@
 - Add example — iteration 24 (2019)
 - Update dependencies — iteration 29 (2019)
 - Update dependencies — iteration 30 (2019)
+- Fix edge case — iteration 34 (2019)
