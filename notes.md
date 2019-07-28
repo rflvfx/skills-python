@@ -73,3 +73,4 @@
 - Fix edge case — iteration 34 (2019)
 - Improve naming — iteration 43 (2019)
 - Add feature — iteration 47 (2019)
+- Add validation — iteration 51 (2019)
