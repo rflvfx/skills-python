@@ -76,3 +76,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Add tests — iteration 12 (2019)
 - Extend coverage — iteration 15 (2019)
 - Improve naming — iteration 16 (2019)
+- Add validation — iteration 19 (2019)
