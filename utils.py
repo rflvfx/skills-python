@@ -51,3 +51,4 @@
 - Refactor module — iteration 1 (2019)
 - Update config — iteration 3 (2019)
 - Tweak implementation — iteration 4 (2019)
+- Minor cleanup — iteration 20 (2019)
