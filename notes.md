@@ -69,3 +69,4 @@
 - Improve error handling — iteration 13 (2019)
 - Add example — iteration 24 (2019)
 - Update dependencies — iteration 29 (2019)
+- Update dependencies — iteration 30 (2019)
