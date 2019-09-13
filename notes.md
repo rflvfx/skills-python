@@ -66,3 +66,4 @@
 - Fix edge case — iteration 2 (2019)
 - Add validation — iteration 6 (2019)
 - Update docs — iteration 11 (2019)
+- Improve error handling — iteration 13 (2019)
