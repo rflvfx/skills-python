@@ -74,3 +74,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Fix edge case — iteration 9 (2019)
 - Polish code — iteration 10 (2019)
 - Add tests — iteration 12 (2019)
+- Extend coverage — iteration 15 (2019)
