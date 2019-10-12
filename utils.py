@@ -55,3 +55,4 @@
 - Fix typo — iteration 21 (2019)
 - Polish code — iteration 22 (2019)
 - Tweak implementation — iteration 27 (2019)
+- Fix edge case — iteration 35 (2019)
