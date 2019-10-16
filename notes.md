@@ -65,3 +65,4 @@
 - Improve error handling — iteration 55 (2018)
 - Fix edge case — iteration 2 (2019)
 - Add validation — iteration 6 (2019)
+- Update docs — iteration 11 (2019)
