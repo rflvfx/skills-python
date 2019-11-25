@@ -56,3 +56,4 @@
 - Polish code — iteration 22 (2019)
 - Tweak implementation — iteration 27 (2019)
 - Fix edge case — iteration 35 (2019)
+- Update config — iteration 38 (2019)
