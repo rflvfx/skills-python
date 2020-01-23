@@ -99,3 +99,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Refactor module — iteration 18 (2020)
 - Tweak implementation — iteration 25 (2020)
 - Extend coverage — iteration 26 (2020)
+- Fix edge case — iteration 29 (2020)
