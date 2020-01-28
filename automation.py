@@ -96,3 +96,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Minor cleanup — iteration 3 (2020)
 - Add tests — iteration 6 (2020)
 - Polish code — iteration 8 (2020)
+- Refactor module — iteration 18 (2020)
