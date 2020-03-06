@@ -79,3 +79,4 @@
 - Add feature — iteration 10 (2020)
 - Fix edge case — iteration 13 (2020)
 - Refactor module — iteration 16 (2020)
+- Polish code — iteration 27 (2020)
