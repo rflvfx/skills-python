@@ -60,3 +60,4 @@
 - Improve error handling — iteration 41 (2019)
 - Fix typo — iteration 53 (2019)
 - Polish code — iteration 58 (2019)
+- Add example — iteration 2 (2020)
