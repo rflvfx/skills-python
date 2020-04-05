@@ -98,3 +98,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Polish code — iteration 8 (2020)
 - Refactor module — iteration 18 (2020)
 - Tweak implementation — iteration 25 (2020)
+- Extend coverage — iteration 26 (2020)
