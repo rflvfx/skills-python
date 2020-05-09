@@ -101,3 +101,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Extend coverage — iteration 26 (2020)
 - Fix edge case — iteration 29 (2020)
 - Tweak implementation — iteration 31 (2020)
+- Fix lint warnings — iteration 39 (2020)
