@@ -76,3 +76,4 @@
 - Update dependencies — iteration 54 (2020)
 - Fix lint warnings — iteration 57 (2020)
 - Update docs — iteration 58 (2020)
+- Fix typo — iteration 60 (2020)
