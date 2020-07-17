@@ -95,3 +95,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Update config — iteration 1 (2020)
 - Minor cleanup — iteration 3 (2020)
 - Add tests — iteration 6 (2020)
+- Polish code — iteration 8 (2020)
