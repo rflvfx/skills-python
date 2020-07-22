@@ -82,3 +82,4 @@
 - Polish code — iteration 27 (2020)
 - Polish code — iteration 34 (2020)
 - Update dependencies — iteration 37 (2020)
+- Minor cleanup — iteration 38 (2020)
