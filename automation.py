@@ -105,3 +105,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Fix lint warnings — iteration 43 (2020)
 - Fix typo — iteration 47 (2020)
 - Improve error handling — iteration 56 (2020)
+- Fix typo — iteration 59 (2020)
