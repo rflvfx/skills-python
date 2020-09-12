@@ -63,3 +63,4 @@
 - Add example — iteration 2 (2020)
 - Improve naming — iteration 7 (2020)
 - Add helper — iteration 11 (2020)
+- Update config — iteration 12 (2020)
