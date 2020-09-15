@@ -61,3 +61,4 @@
 - Fix typo — iteration 53 (2019)
 - Polish code — iteration 58 (2019)
 - Add example — iteration 2 (2020)
+- Improve naming — iteration 7 (2020)
