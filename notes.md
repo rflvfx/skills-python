@@ -87,3 +87,4 @@
 - Minor cleanup — iteration 41 (2020)
 - Minor cleanup — iteration 45 (2020)
 - Optimize performance — iteration 49 (2020)
+- Improve error handling — iteration 50 (2020)
