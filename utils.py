@@ -70,3 +70,4 @@
 - Update dependencies — iteration 22 (2020)
 - Extend coverage — iteration 23 (2020)
 - Minor cleanup — iteration 24 (2020)
+- Optimize performance — iteration 36 (2020)
