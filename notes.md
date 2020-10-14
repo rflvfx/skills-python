@@ -78,3 +78,4 @@
 - Add example — iteration 5 (2020)
 - Add feature — iteration 10 (2020)
 - Fix edge case — iteration 13 (2020)
+- Refactor module — iteration 16 (2020)
