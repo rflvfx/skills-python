@@ -68,3 +68,4 @@
 - Tweak implementation — iteration 19 (2020)
 - Add helper — iteration 21 (2020)
 - Update dependencies — iteration 22 (2020)
+- Extend coverage — iteration 23 (2020)
