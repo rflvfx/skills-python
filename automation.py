@@ -103,3 +103,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Tweak implementation — iteration 31 (2020)
 - Fix lint warnings — iteration 39 (2020)
 - Fix lint warnings — iteration 43 (2020)
+- Fix typo — iteration 47 (2020)
