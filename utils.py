@@ -79,3 +79,4 @@
 - Fix typo — iteration 60 (2020)
 - Add validation — iteration 7 (2021)
 - Add feature — iteration 8 (2021)
+- Document usage — iteration 9 (2021)
