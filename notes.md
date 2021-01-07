@@ -90,3 +90,4 @@
 - Improve error handling — iteration 50 (2020)
 - Fix typo — iteration 53 (2020)
 - Update dependencies — iteration 55 (2020)
+- Add example — iteration 6 (2021)
