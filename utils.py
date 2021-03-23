@@ -80,3 +80,4 @@
 - Add validation — iteration 7 (2021)
 - Add feature — iteration 8 (2021)
 - Document usage — iteration 9 (2021)
+- Polish code — iteration 15 (2021)
