@@ -93,3 +93,4 @@
 - Add example — iteration 6 (2021)
 - Update dependencies — iteration 22 (2021)
 - Polish code — iteration 29 (2021)
+- Fix edge case — iteration 32 (2021)
