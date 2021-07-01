@@ -87,3 +87,4 @@
 - Document usage — iteration 24 (2021)
 - Add example — iteration 27 (2021)
 - Update config — iteration 40 (2021)
+- Update dependencies — iteration 47 (2021)
