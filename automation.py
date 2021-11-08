@@ -119,3 +119,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Refactor module — iteration 35 (2021)
 - Tweak implementation — iteration 37 (2021)
 - Add tests — iteration 41 (2021)
+- Improve error handling — iteration 42 (2021)
