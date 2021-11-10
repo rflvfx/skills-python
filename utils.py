@@ -81,3 +81,4 @@
 - Add feature — iteration 8 (2021)
 - Document usage — iteration 9 (2021)
 - Polish code — iteration 15 (2021)
+- Add tests — iteration 16 (2021)
