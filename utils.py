@@ -96,3 +96,4 @@
 - Fix edge case — iteration 14 (2022)
 - Fix lint warnings — iteration 16 (2022)
 - Extend coverage — iteration 17 (2022)
+- Improve naming — iteration 19 (2022)
