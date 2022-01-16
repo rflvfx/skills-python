@@ -130,3 +130,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Improve error handling — iteration 5 (2022)
 - Update docs — iteration 6 (2022)
 - Polish code — iteration 9 (2022)
+- Update config — iteration 21 (2022)
