@@ -137,3 +137,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Fix edge case — iteration 35 (2022)
 - Add validation — iteration 41 (2022)
 - Add feature — iteration 46 (2022)
+- Optimize performance — iteration 49 (2022)
