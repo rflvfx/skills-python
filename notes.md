@@ -102,3 +102,4 @@
 - Extend coverage — iteration 51 (2021)
 - Polish code — iteration 8 (2022)
 - Add tests — iteration 20 (2022)
+- Update config — iteration 22 (2022)
