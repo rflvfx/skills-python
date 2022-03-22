@@ -104,3 +104,4 @@
 - Add tests — iteration 20 (2022)
 - Update config — iteration 22 (2022)
 - Refactor module — iteration 25 (2022)
+- Fix edge case — iteration 26 (2022)
