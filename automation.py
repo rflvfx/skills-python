@@ -127,3 +127,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Update docs — iteration 59 (2021)
 - Fix typo — iteration 60 (2021)
 - Add helper — iteration 2 (2022)
+- Improve error handling — iteration 5 (2022)
