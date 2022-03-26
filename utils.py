@@ -93,3 +93,4 @@
 - Fix typo — iteration 7 (2022)
 - Document usage — iteration 10 (2022)
 - Add validation — iteration 11 (2022)
+- Fix edge case — iteration 14 (2022)
