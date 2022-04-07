@@ -107,3 +107,4 @@
 - Add example — iteration 42 (2022)
 - Tweak implementation — iteration 45 (2022)
 - Improve error handling — iteration 47 (2022)
+- Fix typo — iteration 55 (2022)
