@@ -98,3 +98,4 @@
 - Extend coverage — iteration 17 (2022)
 - Improve naming — iteration 19 (2022)
 - Update docs — iteration 27 (2022)
+- Update dependencies — iteration 28 (2022)
