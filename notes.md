@@ -112,3 +112,4 @@
 - Add tests — iteration 43 (2022)
 - Refactor module — iteration 44 (2022)
 - Polish code — iteration 51 (2022)
+- Extend coverage — iteration 54 (2022)
