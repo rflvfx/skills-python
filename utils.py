@@ -91,3 +91,4 @@
 - Polish code — iteration 52 (2021)
 - Update config — iteration 3 (2022)
 - Fix typo — iteration 7 (2022)
+- Document usage — iteration 10 (2022)
