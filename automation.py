@@ -133,3 +133,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Update config — iteration 21 (2022)
 - Add helper — iteration 23 (2022)
 - Extend coverage — iteration 24 (2022)
+- Add helper — iteration 34 (2022)
