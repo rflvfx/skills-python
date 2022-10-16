@@ -103,3 +103,4 @@
 - Polish code — iteration 8 (2022)
 - Add tests — iteration 20 (2022)
 - Update config — iteration 22 (2022)
+- Refactor module — iteration 25 (2022)
