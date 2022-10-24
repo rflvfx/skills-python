@@ -100,3 +100,4 @@
 - Update docs — iteration 27 (2022)
 - Update dependencies — iteration 28 (2022)
 - Add feature — iteration 29 (2022)
+- Extend coverage — iteration 31 (2022)
