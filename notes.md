@@ -116,3 +116,4 @@
 - Refactor module — iteration 56 (2022)
 - Improve naming — iteration 8 (2023)
 - Document usage — iteration 10 (2023)
+- Improve naming — iteration 11 (2023)
