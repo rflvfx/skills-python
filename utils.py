@@ -111,3 +111,4 @@
 - Update docs — iteration 57 (2022)
 - Refactor module — iteration 58 (2022)
 - Minor cleanup — iteration 59 (2022)
+- Document usage — iteration 1 (2023)
