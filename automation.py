@@ -141,3 +141,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Add tests — iteration 60 (2022)
 - Update docs — iteration 4 (2023)
 - Improve naming — iteration 16 (2023)
+- Fix lint warnings — iteration 22 (2023)
