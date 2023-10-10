@@ -118,3 +118,4 @@
 - Document usage — iteration 12 (2023)
 - Fix lint warnings — iteration 14 (2023)
 - Improve error handling — iteration 20 (2023)
+- Add tests — iteration 26 (2023)
