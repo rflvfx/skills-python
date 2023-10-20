@@ -120,3 +120,4 @@
 - Improve error handling — iteration 20 (2023)
 - Add tests — iteration 26 (2023)
 - Extend coverage — iteration 32 (2023)
+- Add validation — iteration 43 (2023)
