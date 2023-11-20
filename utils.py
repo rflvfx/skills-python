@@ -114,3 +114,4 @@
 - Document usage — iteration 1 (2023)
 - Add example — iteration 2 (2023)
 - Update docs — iteration 7 (2023)
+- Refactor module — iteration 9 (2023)
