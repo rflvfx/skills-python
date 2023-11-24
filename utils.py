@@ -124,3 +124,4 @@
 - Improve error handling — iteration 44 (2023)
 - Add tests — iteration 46 (2023)
 - Extend coverage — iteration 49 (2023)
+- Document usage — iteration 52 (2023)
