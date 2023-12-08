@@ -146,3 +146,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Add feature — iteration 27 (2023)
 - Add validation — iteration 28 (2023)
 - Add validation — iteration 31 (2023)
+- Update config — iteration 36 (2023)
