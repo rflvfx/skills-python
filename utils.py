@@ -125,3 +125,4 @@
 - Add tests — iteration 46 (2023)
 - Extend coverage — iteration 49 (2023)
 - Document usage — iteration 52 (2023)
+- Optimize performance — iteration 53 (2023)
