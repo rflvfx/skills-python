@@ -140,3 +140,4 @@
 - Fix lint warnings — iteration 34 (2024)
 - Update config — iteration 40 (2024)
 - Refactor module — iteration 41 (2024)
+- Document usage — iteration 42 (2024)
