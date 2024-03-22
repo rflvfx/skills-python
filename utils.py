@@ -131,3 +131,4 @@
 - Add feature — iteration 3 (2024)
 - Improve error handling — iteration 6 (2024)
 - Add example — iteration 9 (2024)
+- Improve error handling — iteration 14 (2024)
