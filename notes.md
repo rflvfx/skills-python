@@ -130,3 +130,4 @@
 - Improve error handling — iteration 51 (2023)
 - Optimize performance — iteration 54 (2023)
 - Update docs — iteration 2 (2024)
+- Fix typo — iteration 8 (2024)
