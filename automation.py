@@ -158,3 +158,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Minor cleanup — iteration 11 (2024)
 - Add feature — iteration 17 (2024)
 - Improve error handling — iteration 19 (2024)
+- Refactor module — iteration 20 (2024)
