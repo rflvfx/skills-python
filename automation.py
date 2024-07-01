@@ -163,3 +163,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Polish code — iteration 32 (2024)
 - Update dependencies — iteration 35 (2024)
 - Fix lint warnings — iteration 36 (2024)
+- Fix edge case — iteration 38 (2024)
