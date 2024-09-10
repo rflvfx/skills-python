@@ -142,3 +142,4 @@
 - Tweak implementation — iteration 50 (2024)
 - Add tests — iteration 53 (2024)
 - Document usage — iteration 54 (2024)
+- Minor cleanup — iteration 55 (2024)
