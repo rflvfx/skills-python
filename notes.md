@@ -145,3 +145,4 @@
 - Minor cleanup — iteration 55 (2024)
 - Add example — iteration 60 (2024)
 - Add tests — iteration 7 (2025)
+- Add validation — iteration 10 (2025)
