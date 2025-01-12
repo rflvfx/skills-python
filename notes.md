@@ -155,3 +155,4 @@
 - Add helper — iteration 30 (2025)
 - Fix edge case — iteration 34 (2025)
 - Add example — iteration 35 (2025)
+- Add feature — iteration 36 (2025)
