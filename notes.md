@@ -160,3 +160,4 @@
 - Polish code — iteration 52 (2025)
 - Fix edge case — iteration 54 (2025)
 - Update config — iteration 55 (2025)
+- Add helper — iteration 57 (2025)
