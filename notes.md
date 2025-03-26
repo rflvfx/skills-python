@@ -151,3 +151,4 @@
 - Document usage — iteration 15 (2025)
 - Update dependencies — iteration 17 (2025)
 - Improve error handling — iteration 23 (2025)
+- Improve error handling — iteration 28 (2025)
