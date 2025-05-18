@@ -148,3 +148,4 @@
 - Add validation — iteration 10 (2025)
 - Polish code — iteration 11 (2025)
 - Fix lint warnings — iteration 13 (2025)
+- Document usage — iteration 15 (2025)
