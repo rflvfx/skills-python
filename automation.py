@@ -181,3 +181,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Fix typo — iteration 32 (2025)
 - Improve naming — iteration 33 (2025)
 - Update dependencies — iteration 41 (2025)
+- Fix edge case — iteration 42 (2025)
