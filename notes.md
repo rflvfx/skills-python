@@ -161,3 +161,4 @@
 - Fix edge case — iteration 54 (2025)
 - Update config — iteration 55 (2025)
 - Add helper — iteration 57 (2025)
+- Extend coverage — iteration 60 (2025)
