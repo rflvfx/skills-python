@@ -172,3 +172,4 @@
 - Extend coverage — iteration 15 (2026)
 - Update config — iteration 17 (2026)
 - Polish code — iteration 24 (2026)
+- Update docs — iteration 25 (2026)
