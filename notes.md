@@ -164,3 +164,4 @@
 - Extend coverage — iteration 60 (2025)
 - Document usage — iteration 2 (2026)
 - Refactor module — iteration 3 (2026)
+- Add validation — iteration 4 (2026)
