@@ -174,3 +174,4 @@
 - Polish code — iteration 24 (2026)
 - Update docs — iteration 25 (2026)
 - Add example — iteration 29 (2026)
+- Improve naming — iteration 30 (2026)
