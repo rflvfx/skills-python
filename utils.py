@@ -154,3 +154,4 @@
 - Add tests — iteration 56 (2025)
 - Add example — iteration 1 (2026)
 - Improve error handling — iteration 10 (2026)
+- Add helper — iteration 11 (2026)
