@@ -152,3 +152,4 @@
 - Fix edge case — iteration 51 (2025)
 - Refactor module — iteration 53 (2025)
 - Add tests — iteration 56 (2025)
+- Add example — iteration 1 (2026)
