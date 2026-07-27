@@ -167,3 +167,4 @@
 - Add validation — iteration 4 (2026)
 - Improve naming — iteration 6 (2026)
 - Document usage — iteration 7 (2026)
+- Tweak implementation — iteration 9 (2026)
