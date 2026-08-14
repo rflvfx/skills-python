@@ -190,3 +190,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Extend coverage — iteration 36 (2026)
 - Update config — iteration 38 (2026)
 - Add helper — iteration 39 (2026)
+- Update dependencies — iteration 41 (2026)
