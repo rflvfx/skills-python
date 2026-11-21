@@ -169,3 +169,4 @@
 - Document usage — iteration 7 (2026)
 - Tweak implementation — iteration 9 (2026)
 - Tweak implementation — iteration 13 (2026)
+- Extend coverage — iteration 15 (2026)
