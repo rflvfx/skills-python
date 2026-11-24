@@ -192,3 +192,4 @@ def batch_rename(folder: str, prefix: str) -> None:
 - Add helper — iteration 39 (2026)
 - Update dependencies — iteration 41 (2026)
 - Update docs — iteration 45 (2026)
+- Polish code — iteration 54 (2026)
